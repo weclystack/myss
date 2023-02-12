@@ -1,4 +1,40 @@
 ---
 label: mdz
 hide_body: false
-fields: []
+fields:
+- name: l
+  type: text
+  config:
+    required: false
+  label: l
+- name: deskripsi
+  type: text
+  config:
+    required: false
+  label: deskripsi
+- name: upload
+  type: file
+  config:
+    maxSize: 64
+  label: upload
+- name: date
+  type: datetime
+  label: date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: short
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: short
+- name: type
+  type: text
+  config:
+    required: false
+  label: type
