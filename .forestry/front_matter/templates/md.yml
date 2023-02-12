@@ -20,5 +20,3 @@ fields:
 - type: text
   name: type
   label: type
-pages:
-- elements/content/blog/hello.md
