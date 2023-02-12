@@ -7,8 +7,6 @@ sections:
 - type: document
   path: elements/content/blog
   label: The Way
-  match: "**/*"
-  read_only: false
 - type: heading
   label: Homepage
 - type: document
