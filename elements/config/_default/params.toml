@@ -5,7 +5,7 @@ favicon = "images/favicon.png"
 logo = "images/logo.png"
 # use `x` with logo_width, example: "100x".
 # Note: logo_width is not work with .svg file
-logo_width = "150x"
+logo_width = "50x"
 # logo text will only show when logo is missing.
 logo_text = "Geeky"
 # navbar fixed to top
@@ -15,21 +15,20 @@ description = "This is meta description"
 author = "Themefisher"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # contact info
-address = "9567 Turner Trace Apt. BC C3G8A4"
-mobile = "+211234565523"
-email = "info@email.com"
+address = "Jakarta City"
+email = "info@programplex.dev"
 # contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+contact_form_action = "https://formspree.io/f/xwkjlnwk" # contact form works with https://formspree.io
 # search
 search = true
 
 # Posts related Titles & Contents
 categories_title = "Blog Categories"
 posts_title = "Featured"
-featured_post_title = "Featured Post"
-recent_post_title = "Recent Post"
-featured_post_button = "Featured"
-recent_post_button = "Recent"
+featured_post_title = "Trend Topics"
+recent_post_title = "What's new?"
+featured_post_button = "Trend Topics"
+recent_post_button = "New Post"
 read_more_button = "Read more"
 previous_button = "Previous"
 next_button = "Next"
@@ -42,12 +41,12 @@ mainSections = ["blog"]
 # about widget content
 about_widget_content = "Lorem ipsum dolor sit amet, conse tfctetur adipiscing elit. Vel in in donec iaculis tempasus odio nunc laoreet . Libero ullam rgscorper."
 # footer content
-footer_content = "Lorem ipsum dolor sit amt, conse adip iscing. donec iaculis tempasus laoreet. Libero ullam rgscper."
+footer_content = "Programplex is a platform for Programmers and Cyber Security experts, which can be joined by anyone interested in the field. So it is a platform for community or online resources for programmers, developers and cyber security experts."
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
 custom_script= ""
 # copyright
 theme_copyright = true
-copyright = "Copyright by your company"
+copyright = "Copyright 2023"
 
 # 404
 error_404_text = "404 Page Not Found!"
@@ -62,67 +61,45 @@ preloader = "" # use jpg, png, svg or gif format.
 [banner]
 enable = true
 title_large = "Welcome **!**"
-title_small = "to Jhon Bravo Blog"
+title_small = "To Programplex"
 image = "images/banner.png"
 background_image = "/images/banner-bg-shape.svg"
-content = "Are Developer and recently started your own business Already made website to ensure presence wants to develop."
-button_label = "Know About Me"
+content = "Programplex is a platform for Programmers and Cyber ​​Security Experts."
+button_label = "About Programplex"
 button_link = "about/"
 
-# Advertise
-[advertisement]
-image = "images/promotion.png"
-link = "https://gethugothemes.com/"
+
 
 # cookies
 [cookies]
-enable = false
+enable = true
 expire_days = 2
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
 button = "I Accept"
 
 ######################## sidebar widgets #########################
 [widgets]
-sidebar = ["about", "categories", "recent-post", "newsletter"]
+sidebar = [ "categories", "recent-post"]
 # available widget : about,categories,newsletter,recent-post
 
 
-# Subscription
-[subscription]
-enable = false
-newsletter_title = "Newsletter"
-newsletter_invitation = "Join thousands of Tiny Salt subscribers and get our best recipes delivered each week!"
-newsletter_placeholder = "Type And Hit Enter"
-newsletter_reminder_a = "By Singing Up, You Agree To"
-newsletter_reminder_b = "Privacy Policy"
-newsletter_button = "Sign in"
-# mailchimp subsciption
-mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
-mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
+
 
 
 ############################# social site ########################
 [[social]]
 title = "facebook"
 icon = "fab fa-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.facebook.com/programplex"
 
 [[social]]
 title = "twitter"
 icon = "fab fa-twitter" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://twitter.com/programplex"
 
 [[social]]
 title = "instagram"
 icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+link = "https://www.instagram.com/programplex/"
 
-[[social]]
-title = "github"
-icon = "fab fa-github" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
 
-[[social]]
-title = "linkedin"
-icon = "fab fa-linkedin" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
