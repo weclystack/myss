@@ -11,7 +11,7 @@ instruction_a: "Send Us A"
 instruction_b: " message"
 
 full_name_title: "Full name"
-full_name_placeholder: "Thomas Milano"
+full_name_placeholder: "Thomas"
 
 email_title: "Email Address"
 email_placeholder: "example@email.com"
