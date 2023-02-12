@@ -1,4 +1,13 @@
 ---
 label: 'Test '
 hide_body: false
-fields: []
+fields:
+- name: java
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: java
