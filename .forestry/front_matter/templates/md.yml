@@ -21,4 +21,5 @@ fields:
   name: type
   label: type
 pages:
+- elements/content/blog/advent-of-cyber-2022-tryhackme.md
 - elements/content/blog/introduction-javascipt.md
