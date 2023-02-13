@@ -21,4 +21,5 @@ fields:
   name: type
   label: type
 pages:
+- elements/content/blog/how-to-host-ezxss-in-cpanel-cara-menghosting-ezxss-di-cpanel.md
 - elements/content/blog/introduction-javascipt.md
