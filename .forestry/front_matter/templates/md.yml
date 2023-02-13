@@ -21,4 +21,5 @@ fields:
   name: type
   label: type
 pages:
+- elements/content/blog/hello.md
 - elements/content/blog/introduction-javascipt.md
