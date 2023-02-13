@@ -1,9 +1,9 @@
 +++
-categories = []
+categories = ["Advent of Cyber 2022  "]
 date = 2023-02-13T08:00:00Z
 description = ""
-image = ""
-title = "Hello"
+image = "/images/aoc4-wallpaper-2.png"
+title = "Advent of Cyber 2022  "
 type = "featured"
 
 +++
