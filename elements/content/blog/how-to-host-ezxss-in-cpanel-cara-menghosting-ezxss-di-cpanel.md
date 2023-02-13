@@ -3,7 +3,7 @@ categories = ["Bug Hunter"]
 date = 2023-02-02T02:00:00Z
 description = ""
 image = "/images/screenshot-2.png"
-title = "How to host ezXSS in cPanel (Cara menghosting ezXSS di cPanel)"
+title = "How to host ezXSS in cPanel "
 type = "featured"
 
 +++
