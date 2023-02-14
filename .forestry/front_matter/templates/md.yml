@@ -22,4 +22,5 @@ fields:
   label: type
 pages:
 - elements/content/blog/advent-of-cyber-2022-day-1.md
+- elements/content/blog/advent-of-cyber-2022-day-2-1.md
 - elements/content/blog/introduction-javascipt.md
