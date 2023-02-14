@@ -1,0 +1,26 @@
+---
+label: Md
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- type: file
+  name: image
+  label: image
+- type: datetime
+  name: date
+  label: date
+- type: list
+  name: categories
+  label: categories
+- type: text
+  name: type
+  label: type
+pages:
+- elements/content/blog/advent-of-cyber-2022-day-1.md
+- elements/content/blog/advent-of-cyber-2022-day-2.md
+- elements/content/blog/introduction-javascipt.md

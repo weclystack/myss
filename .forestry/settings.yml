@@ -4,6 +4,14 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: directory
+  path: elements/content/blog
+  label: con
+  create: all
+  match: "**/*"
+  new_doc_ext: md
+  templates:
+  - md
 - type: heading
   label: Homepage
 - type: document
@@ -77,7 +85,6 @@ sections:
 - type: document
   path: config.toml
   label: Variables & Plugins
-  match: "**/*"
 - type: document
   path: elements/config/_default/languages.toml
   label: Languages
@@ -87,7 +94,6 @@ sections:
 - type: document
   path: elements/config/_default/menus.de.toml
   label: Menu (de)
-  match: "**/*"
 upload_dir: elements/static/images
 public_path: "/images"
 front_matter_path: ''

@@ -1,105 +1,64 @@
-#################### default parameters ################################
-# favicon
-favicon = "images/favicon.png"
-# logo
-logo = "images/logo.png"
-# use `x` with logo_width, example: "100x".
-# Note: logo_width is not work with .svg file
-logo_width = "50x"
-# logo text will only show when logo is missing.
-logo_text = "Geeky"
-# navbar fixed to top
-navbar_fixed = false
-# OpenGraph / Twitter Card metadata
-description = "This is meta description"
-author = "Themefisher"
-image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
-# contact info
+about_widget_content = "Lorem ipsum dolor sit amet, conse tfctetur adipiscing elit. Vel in in donec iaculis tempasus odio nunc laoreet . Libero ullam rgscorper."
 address = "Jakarta City"
-email = "info@programplex.dev"
-# contact form action
-contact_form_action = "https://formspree.io/f/xwkjlnwk" # contact form works with https://formspree.io
-# search
-search = true
-
-# Posts related Titles & Contents
+author = "Weclystack"
 categories_title = "Blog Categories"
-posts_title = "Featured"
-featured_post_title = "Trend Topics"
-recent_post_title = "What's new?"
+contact_form_action = "https://formspree.io/f/xwkjlnwk"
+copyright = "Copyright 2023"
+custom_script = ""
+description = "This is meta description"
+email = "info@programplex.dev"
+error_404_button = "Back To Home"
+error_404_text = "404 Page Not Found!"
+favicon = "images/favicon.png"
 featured_post_button = "Trend Topics"
-recent_post_button = "New Post"
-read_more_button = "Read more"
-previous_button = "Previous"
+featured_post_title = "Trend Topics"
+footer_content = "Programplex is a platform for Programmers and Cyber Security experts, which can be joined by anyone interested in the field. So it is a platform for community or online resources for programmers, developers and cyber security experts."
+image = "images/logo.png"
+logo = "images/logo.png"
+logo_text = "Geeky"
+logo_width = "50x"
+mainSections = ["blog"]
+navbar_fixed = false
 next_button = "Next"
-related_posts = "Related Posts"
-showing_posts = "Showing Post From"
 no_categories_found = "No Categories Found"
 no_tags_found = "No Tags Found"
-
-mainSections = ["blog"]
-# about widget content
-about_widget_content = "Lorem ipsum dolor sit amet, conse tfctetur adipiscing elit. Vel in in donec iaculis tempasus odio nunc laoreet . Libero ullam rgscorper."
-# footer content
-footer_content = "Programplex is a platform for Programmers and Cyber Security experts, which can be joined by anyone interested in the field. So it is a platform for community or online resources for programmers, developers and cyber security experts."
-# custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
-custom_script= ""
-# copyright
+posts_title = "Featured"
+previous_button = "Previous"
+read_more_button = "Read more"
+recent_post_button = "New Post"
+recent_post_title = "What's new?"
+related_posts = "Related Posts"
+search = true
+showing_posts = "Showing Post From"
 theme_copyright = true
-copyright = "Copyright 2023"
-
-# 404
-error_404_text = "404 Page Not Found!"
-error_404_button = "Back To Home"
-
-# Preloader
-[preloader]
-enable = false
-preloader = "" # use jpg, png, svg or gif format.
-
-# Banner
 [banner]
-enable = true
-title_large = "Welcome **👋**"
-title_small = "To Programplex"
-image = "images/banner.png"
 background_image = "/images/banner-bg-shape.svg"
-content = "Programplex is a platform for Programmers and Cyber ​​Security Experts."
 button_label = "About Programplex"
 button_link = "about/"
-
-
-
-# cookies
+content = "Programplex is a platform for Programmers and Cyber ​​Security Experts."
+enable = true
+image = "images/banner.png"
+title_large = "Welcome **👋**"
+title_small = "To Programplex"
 [cookies]
+button = "I Accept"
+content = "This site uses cookies. By continuing to use this website, you agree to their use."
 enable = true
 expire_days = 2
-content = "This site uses cookies. By continuing to use this website, you agree to their use."
-button = "I Accept"
-
-######################## sidebar widgets #########################
+[preloader]
+enable = false
+preloader = ""
 [widgets]
-sidebar = [ "categories", "recent-post"]
-# available widget : about,categories,newsletter,recent-post
-
-
-
-
-
-############################# social site ########################
+sidebar = ["categories", "recent-post"]
 [[social]]
-title = "facebook"
-icon = "fab fa-facebook" # themify icon : https://themify.me/themify-icons
+icon = "fab fa-facebook"
 link = "https://www.facebook.com/programplex"
-
+title = "facebook"
 [[social]]
-title = "twitter"
-icon = "fab fa-twitter" # themify icon : https://themify.me/themify-icons
+icon = "fab fa-twitter"
 link = "https://twitter.com/programplex"
-
+title = "twitter"
 [[social]]
-title = "instagram"
-icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
+icon = "fab fa-instagram"
 link = "https://www.instagram.com/programplex/"
-
-
+title = "instagram"
