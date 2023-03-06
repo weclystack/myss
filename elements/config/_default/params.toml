@@ -6,19 +6,19 @@ contact_form_action = "https://formspree.io/f/xwkjlnwk"
 copyright = "Copyright 2023"
 custom_script = ""
 description = "This is meta description"
-email = "info@programplex.dev"
+email = "heyy@thecyberswat.com"
 error_404_button = "Back To Home"
 error_404_text = "404 Page Not Found!"
 favicon = "images/favicon.png"
 featured_post_button = "Trend Topics"
 featured_post_title = "Trend Topics"
-footer_content = "Programplex is a platform for Programmers and Cyber Security experts, which can be joined by anyone interested in the field. So it is a platform for community or online resources for programmers, developers and cyber security experts."
+footer_content = "Thecyberswat is a platform for Cyber Security and Programmers experts, which can be joined by anyone interested in the field. So it is a platform for community or online resources for programmers, developers and cyber security experts."
 image = "images/logo.png"
 logo = "images/logo.png"
-logo_text = "Programplex"
-logo_width = "70x"
+logo_text = "TCS"
+logo_width = "150x"
 mainSections = ["blog"]
-navbar_fixed = true
+navbar_fixed = false
 next_button = "Next"
 no_categories_found = "No Categories Found"
 no_tags_found = "No Tags Found"
@@ -33,13 +33,13 @@ showing_posts = "Showing Post From"
 theme_copyright = true
 [banner]
 background_image = "/images/banner-bg-shape.svg"
-button_label = "About Programplex"
+button_label = "About TCS"
 button_link = "about/"
-content = "Programplex is a platform for Programmers and Cyber ​​Security Experts."
+content = "Thecyberswat is a platform for Cyber Security and Pentester Experts."
 enable = true
 image = "images/banner.png"
 title_large = "Welcome **👋**"
-title_small = "To Programplex"
+title_small = "To Thecyberswat"
 [cookies]
 button = "I Accept"
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
@@ -50,15 +50,12 @@ enable = false
 preloader = ""
 [widgets]
 sidebar = ["categories", "recent-post"]
-[[social]]
-icon = "fab fa-facebook"
-link = "https://www.facebook.com/programplex"
-title = "facebook"
+
 [[social]]
 icon = "fab fa-twitter"
-link = "https://twitter.com/programplex"
+link = "https://twitter.com/thecyberswat"
 title = "twitter"
 [[social]]
 icon = "fab fa-instagram"
-link = "https://www.instagram.com/programplex/"
+link = "https://www.instagram.com/thecyberswat"
 title = "instagram"
