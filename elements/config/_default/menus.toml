@@ -23,6 +23,11 @@ weight = 3
   url = "categories/"
   weight = 2
 
+  [[main]]
+name = "Join Discord"
+url = "https://discord.com"
+weight = 4
+
 # footer menu
 [[footer]]
 name = "Home"
