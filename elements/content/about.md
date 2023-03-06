@@ -1,5 +1,5 @@
 ---
-title: "About Programplex"
+title: "About TCS"
 description: "this is meta-description"
 image: "images/#"
 layout: "about"
@@ -37,6 +37,6 @@ experience:
 
 ---
 
-Programplex is a forum for learning coding and cyber security, from zero to hero, for free. The name Programplex has a very complex program and it is a community of beginners to professionals who share their knowledge and skills about coding and cyber security. Programplex provides various types of learning resources such as video tutorials, digital books, articles, and discussion forums to help beginners understand the basics of coding and cyber security.
+Thecyberswat is a forum for learning coding and cyber security, from zero to hero, for free. The name Thecyberswat has a very complex program and it is a community of beginners to professionals who share their knowledge and skills about coding and cyber security. Thecyberswat provides various types of learning resources such as video tutorials, digital books, articles, and discussion forums to help beginners understand the basics of coding and cyber security.
 
-Programplex also has a great program to enhance the coding and cyber security skills of beginners, helping them become experts in this field. Programplex has many professional and experienced mentors in the field of coding and cyber security who are ready to assist and answer any questions and problems faced by beginners.
+Thecyberswat also has a great program to enhance the coding and cyber security skills of beginners, helping them become experts in this field. Thecyberswat has many professional and experienced mentors in the field of coding and cyber security who are ready to assist and answer any questions and problems faced by beginners.
