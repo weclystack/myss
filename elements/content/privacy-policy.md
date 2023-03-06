@@ -6,7 +6,7 @@ draft: false
 ---
 
 ### Privacy Policy
-Programplex ("we", "us", "our") is committed to protecting the privacy of our users ("you", "your"). This Privacy Policy describes how we collect, use, and share information about you when you use our website or mobile application (collectively, the "Services").
+Thecyberswat ("we", "us", "our") is committed to protecting the privacy of our users ("you", "your"). This Privacy Policy describes how we collect, use, and share information about you when you use our website or mobile application (collectively, the "Services").
 
 Information We Collect
 
@@ -30,7 +30,7 @@ We may share your information with third parties in the following circumstances:
 
 With your consent
 To comply with legal obligations
-To protect the rights and property of Programplex
+To protect the rights and property of Thecyberswat
 In connection with a merger or acquisition of our company
 Your Choices
 
@@ -48,4 +48,4 @@ We may update this Privacy Policy from time to time. The revised policy will be 
 
 Contact Us
 
-If you have any questions or concerns about our Privacy Policy, please contact us at privacy@programplex.com.
+If you have any questions or concerns about our Privacy Policy, please contact us at privacy@thecyberswat.com
