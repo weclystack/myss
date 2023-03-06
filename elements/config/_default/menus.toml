@@ -18,7 +18,6 @@ weight = 3
 
 
   [[main]]
-  parent = "Topics"
   name = "Categories"
   url = "categories/"
   weight = 2
