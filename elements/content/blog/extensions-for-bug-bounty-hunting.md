@@ -2,6 +2,7 @@
 categories = ["Bug Hunter"]
 date = 2023-03-08T00:00:00Z
 description = ""
+draft = true
 image = "/images/0pr00v47ypniwr7yicgt5v0ellrdmoz0dq9mkjk8.webp"
 title = "Extensions for bug bounty hunting "
 type = ""
