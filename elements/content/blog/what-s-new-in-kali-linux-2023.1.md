@@ -2,7 +2,6 @@
 categories = ["Linux"]
 date = 2023-03-14T00:00:00Z
 description = ""
-draft = true
 image = "/images/kali-purple-bg.jpg"
 title = "What's new in kali linux 2023.1"
 type = "featured"
