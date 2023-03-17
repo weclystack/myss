@@ -1,10 +1,8 @@
 ---
-title: "Privacy Policy"
-description: "this is meta-description"
-draft: false
+title: Privacy Policy
+description: Thecyberswat
 
 ---
-
 ### Privacy Policy
 Thecyberswat ("we", "us", "our") is committed to protecting the privacy of our users ("you", "your"). This Privacy Policy describes how we collect, use, and share information about you when you use our website or mobile application (collectively, the "Services").
 
