@@ -5,7 +5,7 @@ categories_title = "Blog Categories"
 contact_form_action = "https://formspree.io/f/xwkjlnwk"
 copyright = "Copyright 2023"
 custom_script = ""
-description = "thecyberswat | TCS"
+description = "Thecyberswat"
 email = "heyy@thecyberswat.com"
 error_404_button = "Back To Home"
 error_404_text = "404 Page Not Found!"
@@ -44,13 +44,12 @@ title_small = "To Thecyberswat"
 button = "I Accept"
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
 enable = true
-expire_days = 2
+expire_days = "2"
 [preloader]
 enable = false
 preloader = ""
 [widgets]
 sidebar = ["categories", "recent-post"]
-
 [[social]]
 icon = "fab fa-twitter"
 link = "https://twitter.com/thecyberswat"
