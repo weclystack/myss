@@ -38,8 +38,8 @@ button_link = "about/"
 content = "Thecyberswat is a platform for Cyber Security and Pentester Experts."
 enable = true
 image = "images/banner.png"
-title_large = "Welcome **👋**"
-title_small = "To Thecyberswat"
+title_large = "Learn Cybersec"
+title_small = "From Zero to hero"
 [cookies]
 button = "I Accept"
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
