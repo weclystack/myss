@@ -15,7 +15,7 @@ featured_post_title = "Trend Topics"
 footer_content = "Thecyberswat is a platform for Cyber Security and Programmers experts, which can be joined by anyone interested in the field. So it is a platform for community or online resources for programmers, developers and cyber security experts."
 image = "images/logo.png"
 logo = "images/logo.png"
-logo_text = "TCS"
+logo_text = "Thecyberswat"
 logo_width = "180x"
 mainSections = ["blog"]
 navbar_fixed = false
@@ -33,7 +33,7 @@ showing_posts = "Showing Post From"
 theme_copyright = true
 [banner]
 background_image = "/images/banner-bg-shape.svg"
-button_label = "About TCS"
+button_label = "About Us"
 button_link = "about/"
 content = "Thecyberswat is a platform for Cyber Security and Pentester Experts."
 enable = true
